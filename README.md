@@ -24,3 +24,5 @@
  * [07-RestServer](./node-de-cero-a-experto/07-RestServer)
      * [server](./node-de-cero-a-experto/07-RestServer/server)
          * [config](./node-de-cero-a-experto/07-RestServer/server/config)
+         * [rests](./node-de-cero-a-experto/07-RestServer/server/rests)
+         * [modelos](./node-de-cero-a-experto/07-RestServer/server/modelos)
